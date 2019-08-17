@@ -1,0 +1,16 @@
+appname="简单修改"
+appver="1.0.0"
+appcode="1"
+appsdk="15"
+path_pattern=""
+packagename="com.gun.modify"
+theme="Theme"
+app_key=""
+app_channel=""
+developer="ShiJiong"
+description="简单修改"
+debugmode=false
+user_permission={
+  "READ_EXTERNAL_STORAGE",
+  "WRITE_EXTERNAL_STORAGE"
+}
